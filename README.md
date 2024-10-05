@@ -1,14 +1,7 @@
-That sounds great! Here’s a suggestion for your GitHub repository name and README file:
-
-### Repository Name
-**`express-mongodb-chat-app`**  
-This name clearly indicates that your project is an Express app that utilizes MongoDB.
-
-### README.md
 ```markdown
-# Express MongoDB Chat App
+# Express MongoDB Chat Api
 
-A simple chat application built with Express and MongoDB. This project demonstrates the use of RESTful APIs to create, edit, and delete chat messages.
+A simple chat api built with Express and MongoDB. This project demonstrates the use of RESTful APIs to create, edit, and delete chat messages.
 
 ## Features
 - Create new chat messages.
@@ -54,7 +47,5 @@ A simple chat application built with Express and MongoDB. This project demonstra
 - View all chats listed on the main page.
 - Edit or delete existing chats as needed.
 
-## License
-This project is licensed under the MIT License.
-```
+
 
