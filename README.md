@@ -1,4 +1,6 @@
-A simple api application built with Express and MongoDB. This project demonstrates the use of RESTful APIs to create, edit, and delete chat messages.
+<h2>A simple api application built with Express and MongoDB.</h2>
+<br><br>
+This project demonstrates the use of RESTful APIs to create, edit, and delete chat messages.
 
  Features
  Create new chat messages.
@@ -6,10 +8,13 @@ A simple api application built with Express and MongoDB. This project demonstrat
  Delete chat messages.
  View all chat messages.
 
- Tech Stack
+Tech Stack
 Backend: Node.js, Express
+
 Database:MongoDB
+
 Template Engine:EJS
+
 Middleware:Method-override for RESTful routes
 
 Getting Started
